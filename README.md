@@ -10,6 +10,7 @@ The library enables you to:
 
 first in branch2
 second in branch2
+third in branch2
 
 * Run many AutoML algorithms out of the box on your data - including automatically searching
 for the right model architecture, the right ensemble of models
